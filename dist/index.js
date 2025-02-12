@@ -2826,4 +2826,9 @@ const Button = ({ label }) => {
     return jsxRuntimeExports.jsx("button", { children: label });
 };
 
+function Input() {
+    return jsxRuntimeExports.jsx("div", { children: "Input" });
+}
+
 exports.Button = Button;
+exports.Input = Input;
