@@ -5,14 +5,25 @@
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "type": "module",
+  "description": "A lightweight and easy-to-use React component library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddr-dileep/next-gen-ui.git"
+  },
+  "keywords": [
+    "react",
+    "component-library",
+    "ui-library"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rollup -c"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Dileep raloti",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
