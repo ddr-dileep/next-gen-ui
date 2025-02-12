@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "dist",
+    "module": "ESNext",
+    "target": "ESNext",
+    "jsx": "react-jsx",
+    "declaration": true,
+    "moduleResolution": "node",
+    "paths": {
+      "react": ["node_modules/react"]
+    }
+  }
+}
