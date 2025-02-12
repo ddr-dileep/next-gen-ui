@@ -58,17 +58,6 @@ More components coming soon! 🚀
 - **Fully customizable UI components**.
 - **Minimal dependencies**.
 
-## 🛠 Development
-
-If you want to contribute or modify the package, clone the repository:
-
-```sh
-git clone https://github.com/your-username/react-next-best-ui.git
-cd react-next-best-ui
-npm install
-npm run build
-```
-
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
